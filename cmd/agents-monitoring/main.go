@@ -1,4 +1,4 @@
-package agents_monitoring
+package main
 
 import "github.com/agents-monitoring/cmd/agents-monitoring/cmd"
 
